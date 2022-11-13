@@ -8,10 +8,5 @@ public class Main {
         System.out.println("Индекс массы тела - " + Bmi);
 
 
-
-
-
-
-
     }
 }
