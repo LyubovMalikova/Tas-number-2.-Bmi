@@ -3,9 +3,9 @@ public class Main {
         BmiService service = new BmiService();
         double h = 1.61;
         double m = 50;
-        double Bmi = service.calculate(h, m);
+        double bmi = service.calculate(h, m);
 
-        System.out.println("Индекс массы тела - " + Bmi);
+        System.out.println("Индекс массы тела - " + bmi);
 
 
     }
